@@ -1,0 +1,11 @@
+body {
+    font-family:"Baskerville";
+    font-size: 18px;
+}
+
+.jumbotron {
+    background-image: url("http://robdunnlab.com/wp-content/uploads/microbes-sem.jpg");
+    background-size: cover;
+    color: white;
+    text-shadow: 0 0 3px black;
+  }
